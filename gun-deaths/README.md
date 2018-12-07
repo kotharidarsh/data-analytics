@@ -18,4 +18,4 @@ The data set contains personal, demographic and other information about the vict
                 4 - at least graduated from college
                 5 - not available
                 
-We will explore the dataset based on various factors such as demographics, sex, age, race and so on and try to find patterns in the gun deaths occurred in the US and create visualization.
+We will analyze the data by creating frequency distribution tables for unique values in the columns and visualize the data in the frequency distribution tables with the help of graphs which makes it easier to scan and compare frequencies, providing us with a single picture of the entire distribution.
